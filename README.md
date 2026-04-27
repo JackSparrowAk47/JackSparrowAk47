@@ -1,10 +1,10 @@
-<div align="start">
+<!-- <div align="start">
   <a href="https://www.linkedin.com/in/rei-nicolau-de-rivia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </div>
 
-# 
-![](https://komarev.com/ghpvc/?username=Rei-Nicolau-o-Grande&color=blueviolet&label=Views)
+#  -->
+![](https://komarev.com/ghpvc/?username=JackSparrowAk47&color=blueviolet&label=Views)
 
 ## Hi!, I'm Nicolas a.k.a Jack Sparrow 🏴‍☠️  
 
@@ -32,11 +32,11 @@
 ##
 
 <div>
-  <a href="[https://example.com](https://github.com/Rei-Nicolau-o-Grande)"></a>
+  <a href="[https://example.com](https://github.com/JackSparrowAk47)"></a>
   <p align="center" width="100%">
-    <a href="[https://example.com](https://github.com/Rei-Nicolau-o-Grande)"></a>
-    <!-- <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=Rei-Nicolau-o-Grande&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
-    <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rei-Nicolau-o-Grande&layout=compact&hide_progress=true&langs_count=6&theme=radical&hide=html,css,blade"/>
+    <a href="[https://example.com](https://github.com/JackSparrowAk47)"></a>
+    <!-- <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=JackSparrowAk47&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
+    <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackSparrowAk47&layout=compact&hide_progress=true&langs_count=6&theme=radical&hide=html,css,blade"/>
   </p>
 
 </div>
